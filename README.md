@@ -3,6 +3,11 @@
 
 ## Name : Md. Ammaar Quadri | ID:5855
 
+<div align="center">
+  <img src="https://github.com/maq765/BharatIntern---Internship/raw/main/logo.jpg" alt="Logo" width="200"/>
+</div>
+
+
 ### 1. Registration Form
 **Description:**
 Develop a registration form to sign up and store user information using HTML, CSS, Node.js, and MongoDB. This task involves creating a user-friendly form interface, validating input data, and securely storing the information in a MongoDB database.
